@@ -13,3 +13,12 @@ https://www.ibm.com/developerworks/library/bd-hivewarehouse/
 http://www.lgcnsblog.com/features/hadoop-based-data-warehouse-modeling/#sthash.ecziykDa.dpbs
 
 http://creativelytechie.blogspot.com/2016/02/star-schema-in-hadoop.html
+
+#### Updating Schema, Slowly Changing Dimensions
+https://de.hortonworks.com/blog/update-hive-tables-easy-way/
+https://de.hortonworks.com/blog/update-hive-tables-easy-way-2/
+
+#### Schema Evolution: Avro
+http://getindata.com/schema-evolution-avro-hive/
+
+
