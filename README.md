@@ -10,5 +10,4 @@ http://aseigneurin.github.io/2017/03/14/incrementally-loaded-parquet-files.html
 https://www.ibm.com/developerworks/library/bd-hivelibrary/index.html
 https://www.ibm.com/developerworks/library/bd-hivewarehouse/
 
-#### Modeling
 http://www.lgcnsblog.com/features/hadoop-based-data-warehouse-modeling/#sthash.ecziykDa.dpbs
