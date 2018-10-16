@@ -11,3 +11,5 @@ https://www.ibm.com/developerworks/library/bd-hivelibrary/index.html
 https://www.ibm.com/developerworks/library/bd-hivewarehouse/
 
 http://www.lgcnsblog.com/features/hadoop-based-data-warehouse-modeling/#sthash.ecziykDa.dpbs
+
+http://creativelytechie.blogspot.com/2016/02/star-schema-in-hadoop.html
